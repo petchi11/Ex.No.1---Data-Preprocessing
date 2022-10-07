@@ -75,7 +75,13 @@ df1 = sc.fit_transform(df)
 print(df1)
 ```
 ## OUTPUT:
-/ Show the result/
+
+## Dataset:
+![image](https://user-images.githubusercontent.com/105230321/194618720-0fb7932c-81a8-4e22-9b18-743b4768598b.png)
+
+## Discribing Data:
+![image](https://user-images.githubusercontent.com/105230321/194619007-a37576e2-fcbe-4fec-b097-82ef5833e600.png)
+
 
 ## RESULT
 /Type your result here/
