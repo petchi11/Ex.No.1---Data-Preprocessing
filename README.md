@@ -77,11 +77,19 @@ print(df1)
 ## OUTPUT:
 
 ## Dataset:
-![image](https://user-images.githubusercontent.com/105230321/194618720-0fb7932c-81a8-4e22-9b18-743b4768598b.png)
+![image](https://user-images.githubusercontent.com/105230321/194619152-7f9a2e24-f0fd-4769-af46-00bc232d93ea.png)
 
 ## Discribing Data:
 ![image](https://user-images.githubusercontent.com/105230321/194619007-a37576e2-fcbe-4fec-b097-82ef5833e600.png)
 
+## Normalized Data:
+![image](https://user-images.githubusercontent.com/105230321/194619285-4bb13595-b742-4110-b4bd-e80038867668.png)
 
-## RESULT
-/Type your result here/
+## X_train and Y_train Values:
+![image](https://user-images.githubusercontent.com/105230321/194619356-acfe5c80-cd6b-4c8b-9abe-b82975b69e0a.png)
+
+## X_test and Y_test Values:
+![image](https://user-images.githubusercontent.com/105230321/194620100-5793af62-0c04-4690-ac4f-8efe4d4087b4.png)
+
+## RESULT:
+Thus, the above program for standardizing the given data was implemented successfully.
