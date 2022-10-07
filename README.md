@@ -32,8 +32,17 @@ Normalizing the data
 Splitting the data into test and train
 
 ##PROGRAM:
-/Write your code here/
+```python
+import pandas as pd
 
+df=pd.read_csv("/content/Churn_Modelling.csv")
+
+df.head()
+df.isnull().sum()
+df.drop(["RowNumber","Age","Gender","Geography","Surname"],inplace=True,axis=1)
+
+print(df)
+```
 ##OUTPUT:
 / Show the result/
 
